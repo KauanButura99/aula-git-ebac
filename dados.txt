@@ -1,11 +1,17 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Kauan
+-Profissão: Desempregado
+-Cidade:São Paulo
+-O que faz nas horas vaga: Gosto de treinar musculação , treinar boxe , jogar video game ,
+ escutar musica , assisitir jogos de futebol e assistir alguns videos no Youtube .
+-Feedback sobre o curso Qualidade de Software:Estou achando bem legal , bem desafiador , cada aula ou exercicio que faço eu me sinto mais realializado .
+ Eu já fiz um curso antes na plataforma da Udemy , mas aqui na Ebac o curso é mutio completo tudo que um QA e um QE pricisa . 
+-Feedback sobre a plataforma de estudo da EBAC: Eu acho muito bonito a interface da Ebac , a estilização do site a logo eu acho muito bonito também .
+ Nós conseguimos anexar uma foto na área de comentários , para mostrar as duvidas aos tutuores . 
+ Acho muito legal também os webnarios , ajudam muito esses conhecimentos extras além do curso que a gente estamos fazendo .
+ Só deveria por uma opção dentro do site , para mostrar aos alunos os proximos projetos que você poderia fazer presencialmente na Ebac .
+ Para avisar os alunos de novos eventos .
 
 Obrigado!!!
 
